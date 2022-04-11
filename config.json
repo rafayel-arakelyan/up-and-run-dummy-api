@@ -1,0 +1,6 @@
+{
+    "DB_URI": "mongodb+srv://Upandrun:Mongodb803080@user-crud.6jbve.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "PORT": 4000
+}
+
+
